@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'vehicle',
     'checklist',
     'fuel_logs',
+    'trips',
 ]
 
 MIDDLEWARE = [
