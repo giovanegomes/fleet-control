@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'vehicle',
     'checklist',
+    'fuel_logs',
 ]
 
 MIDDLEWARE = [
